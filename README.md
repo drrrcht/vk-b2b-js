@@ -1,1 +1,1 @@
-# vk-b2b-js
+Тестовое для вк b2b javascript 
